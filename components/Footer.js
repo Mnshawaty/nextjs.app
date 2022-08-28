@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made with <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} /> BringAPK by M.nshawaty
+        صنع بكل حب من BringAPK <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} />  M.nshawaty
       </footer>
     </>
   )
