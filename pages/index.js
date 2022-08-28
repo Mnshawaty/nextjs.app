@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container" style="display:block;">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>تحميل برابط مباشر من ميديا فاير</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
